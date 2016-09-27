@@ -24,7 +24,7 @@ bw.write(" Nova p&agrave;gina web");
 bw.newLine();
 bw.write(" <h1>DAW2 m08uf4pr2</h1>");
 bw.newLine();
-bw.write(" <h1>DAW2 m08uf4pr2</h1>");
+bw.write(" <h1>DAW2 cambios</h1>");
 bw.newLine();
 
 bw.write(" </body>");
